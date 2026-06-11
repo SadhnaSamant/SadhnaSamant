@@ -1,5 +1,4 @@
 Hi, I'm Sadhna 👋
-
 🔹 Aspiring Software Test Engineer
 🔹 Skilled in Manual Testing, Selenium WebDriver, Java, and SQL
 🔹 Interested in Test Automation and Quality Assurance
